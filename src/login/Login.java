@@ -15,7 +15,7 @@ public class Login {
  private String lastName;
   
  public Login(){
-     
+      
  }
  public Login(String firstName, String lastName){
      this.firstName = firstName;
