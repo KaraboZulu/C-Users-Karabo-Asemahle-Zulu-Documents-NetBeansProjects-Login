@@ -61,7 +61,7 @@ public class Login {
  lastName = lastName;
  return "Username successfully captured.\nPassword successfully captured.\nCell number successfully captured.";
   
- }
+ } 
   
 
  public boolean loginUser(String username,String password){
