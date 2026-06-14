@@ -50,7 +50,7 @@ public class Login {
      if (!checkPasswordComplexity(password)){
          return "Passwords must at least 8 characters, a capital letter, a number, and a special character.";
          
-     }
+     } 
      if (!checkCellPhoneNumber(number)){
          return "Cellphone number must have an international code."; 
      }
