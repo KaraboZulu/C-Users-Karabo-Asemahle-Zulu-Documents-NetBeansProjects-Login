@@ -104,7 +104,7 @@ public class Message {
             file.write("ID:" + messageID + ",Hash:" + messageHash + ",To:" + recipientCell + ",Msg:" + message + "\n");
             file.close();
         } catch (Exception e){
-            e.printStackTrace();
+            e.printStackTrace(); 
         }
     }
 
