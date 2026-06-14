@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class MessageTest {
     
-    private Message msg; 
+    private Message msg;  
     private Login login;
 
     
